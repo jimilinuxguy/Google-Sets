@@ -1,0 +1,3 @@
+Currently, the set size is hard-coded to small sets, under 15 elements.
+
+I need to make this a configurable parameter, to enable large sets.
